@@ -7,7 +7,7 @@
 - [Reproducible Journalism](https://r-journalism.com)
   - [R for Journalists](https://learn.r-journalism.com/en/)
 - [Data Journalism and Visualiszation](https://journalismcourses.org/course/dataviz/)
-- [Sigma Awards] (https://sigmaawards.org/)
+- [Sigma Awards](https://sigmaawards.org/)
 
 ## 데이터 저널리즘 국내 자료
 - [데이터저널리즘 어워드](https://learn.r-journalism.com/en/)
